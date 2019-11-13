@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#d81b60</color>
+    <color name="colorButtonUnused">#9e9a9b</color>
+    <color name="colorButtonUsed">#eae9e9</color>
+    <color name="colorWinMessageBackground">#CCeae9e9</color>
+</resources>
